@@ -1,0 +1,59 @@
+h1{
+    color:white;
+    background-color: rgb(250, 175, 175);
+    background-size: contain;
+    background-repeat: no-repeat;
+    text-align: center;
+    height:100px;
+    font-size: 100px;
+    border: rgb(179, 220, 233) 20px solid; 
+    padding: 5px;
+    font-family: 'Srisakdi', cursive;
+    font-family: 'Sniglet', cursive;
+}
+
+.selfie{
+    background-color: rgb(235, 206, 206);
+    border-bottom: 50px;
+    margin: 50px;
+    border: rgb(179, 220, 233) 20px solid; 
+}
+
+.A{
+    background-color: rgb(198, 198, 255);
+    border-bottom: 50px;
+    border: rgb(179, 220, 233) 20px solid; 
+    padding: 50px;
+    margin: 50px;
+    font-family: 'Srisakdi', cursive;
+    font-family: 'Sniglet', cursive;
+}
+
+.B{
+    background-color: rgb(220, 250, 217);
+    border-bottom: 50px;
+    border: rgb(179, 220, 233) 20px solid; 
+    padding: 50px;
+    margin: 50px;
+    font-family: 'Srisakdi', cursive;
+    font-family: 'Sniglet', cursive;
+}
+
+.C{
+    background-color: rgb(235, 184, 255);
+    border-bottom: 50px;
+    border: rgb(179, 220, 233) 20px solid; 
+    padding: 50px;
+    margin: 50px;
+    font-family: 'Srisakdi', cursive;
+    font-family: 'Sniglet', cursive;
+}
+
+.photo1{
+    width: 600px;
+    height:600px;
+    background-image: url("p1.jpg");
+    background-size:contain;
+    background-repeat: no-repeat;
+}
+
